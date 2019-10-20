@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+    <line>
+      <![CDATA[testCreateproject]]>
+    </line>
+    <line>
+      <![CDATA[testCreateUser]]>
+    </line>
+    <line>
+      <![CDATA[testCreateproject]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="47" started-at="2019-10-20T04:44:34Z" finished-at="2019-10-20T04:44:35Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="47" started-at="2019-10-20T04:44:34Z" finished-at="2019-10-20T04:44:35Z">
+      <class name="com.actitime.test.CreateUser">
+        <test-method status="PASS" signature="testCreateProject()[pri:0, instance:com.actitime.test.CreateUser@326de728]" name="testCreateProject" duration-ms="19" started-at="2019-10-20T10:14:34Z" finished-at="2019-10-20T10:14:35Z">
+          <reporter-output>
+            <line>
+              <![CDATA[testCreateproject]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testCreateProject -->
+        <test-method status="PASS" signature="testCreateUser()[pri:0, instance:com.actitime.test.CreateUser@326de728]" name="testCreateUser" duration-ms="2" started-at="2019-10-20T10:14:35Z" finished-at="2019-10-20T10:14:35Z">
+          <reporter-output>
+            <line>
+              <![CDATA[testCreateUser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testCreateUser -->
+        <test-method status="PASS" signature="testVerifyBuild()[pri:0, instance:com.actitime.test.CreateUser@326de728]" name="testVerifyBuild" duration-ms="1" started-at="2019-10-20T10:14:35Z" finished-at="2019-10-20T10:14:35Z">
+          <reporter-output>
+            <line>
+              <![CDATA[testCreateproject]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testVerifyBuild -->
+      </class> <!-- com.actitime.test.CreateUser -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
